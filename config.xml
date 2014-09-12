@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget xmlns	= "http://www.w3.org/ns/widgets"
+    xmlns:gap	= "http://phonegap.com/ns/1.0"
+    id			= "com.intus.famousdemos"
+	versionCode = "10010"
+    version		= "1.0.1">
+
+<name>Fame.us Demos</name>
+
+<description>
+
+</description>
+
+<author href="http://www.intussoluciones.com" email="soporte@intus.cl">
+INTUS Desarrollos Moviles
+</author>    <content src="index.html" />
+    <access origin="*" />
+    <icon src="icon.png" />
+</widget>
